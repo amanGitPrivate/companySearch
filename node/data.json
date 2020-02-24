@@ -1,0 +1,32 @@
+[{
+    "companyName": "C1",
+    "logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+    "specialty": "Excavation",
+    "city": "Berlin"
+},
+{
+    "companyName": "C2",
+    "logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+    "specialty": "Foraging",
+    "city": "Colone"
+},
+{
+    "companyName": "C3",
+    "logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+    "specialty": "Metallurgy",
+    "city": "Munich"
+
+},
+{
+    "companyName": "C4",
+    "logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+    "specialty": "Hospitality",
+    "city": "Stuttgart"
+},
+{
+    "companyName": "C5",
+    "logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+    "specialty": "Foraging",
+    "city": "Paris"
+}
+]
