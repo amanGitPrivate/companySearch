@@ -11,7 +11,7 @@ api code can be started by going to the node folder and starting node index.js
 
 
 
-## improvements
+## Improvements
 
 1) API can be made parameter driven 
 2) Filtering logic can be shifted to backend
